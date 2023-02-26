@@ -8,6 +8,7 @@ public class Lab {
      * problem, it will be best to use a for loop. To start, the general structure of such a for loop would be
      *
      * for(int i = 0; i < arr.length; i++){
+     * 
      *     //code here
      * }
      *
